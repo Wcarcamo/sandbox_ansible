@@ -1,4 +1,4 @@
-- hosts: docker.lan
+- hosts: docker.lild.lan
   remote_user: root
   tasks:
 

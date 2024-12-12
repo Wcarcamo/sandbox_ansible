@@ -5,11 +5,13 @@ pi:
 pve:
   hosts:
     proxmox.lan:
+    lild.lan:
 
 lxc:
   hosts:
     nas.lan:
     docker.lan:
+    docker.lild.lan:
     pihole.lan:
 
 turnkey:
